@@ -1,0 +1,13 @@
+puts('Hello '+'world')
+puts('Hello '*3)
+puts('Hello'[0])
+puts('Hello'[1])
+puts('Hello'[2])
+puts('Hello'[3])
+puts('Hello'[4])
+
+print('Hello'[0])
+print('Hello'[1])
+print('Hello'[2])
+print('Hello'[3])
+print('Hello'[4])
